@@ -96,7 +96,7 @@ def game():
             lives -= 1
 
         print(f"Lives remaining: {lives}")
-
+        
     print(f"\n Game Over, {name}!")
     print(f"Your final score: {score}")
 
