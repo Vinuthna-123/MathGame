@@ -97,7 +97,7 @@ def game():
 
         print(f"Lives remaining: {lives}")
 
-    print(f"\n🎉 Game Over, {name}!")
+    print(f"\n Game Over, {name}!")
     print(f"Your final score: {score}")
 
     # Save and show scores
